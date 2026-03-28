@@ -1,64 +1,95 @@
-Digital Literacy & Student Ambassador Project
+🚀 Digital Literacy & Student Ambassador Project
 
 Name: Tanmay Tiwari
-
 Registration Number: 25BAS10093
-
 Institution: VIT Bhopal University
-
 Program: B.Tech Aerospace Engineering (Batch 2025-2029)
 
-🚀 Project Overview
+🌟 Project Overview
 
-This repository contains the deliverables for the Digital Literacy Module. As a Student Digital Ambassador, I have documented my journey in establishing a professional digital presence, mastering collaboration tools, and advocating for cybersecurity awareness.
+This repository contains the complete deliverables for the Digital Literacy Module.
+As a Student Digital Ambassador, this project represents my journey in:
 
-📂 Repository File Structure
+Building a strong professional digital presence
+Learning modern collaboration tools
+Promoting cybersecurity awareness among students
+Developing essential digital skills required for a future Aerospace Engineer
 
+📂 Repository Structure
 digital-literacy-project/
+│
 ├── report/
-│   └── Project_Report_Tanmay_Tiwari.pdf       
+│   └── Project_Report_Tanmay_Tiwari.pdf
+│
 ├── task-1-presentation/
-│   └── digital_literacy_infographic.png       
+│   └── digital_literacy_infographic.png
+│
 ├── task-2-portfolio/
-│   ├── github_profile.png                     
-│   ├── linkedin_profile.png                   
-│   └── researchgate_profile.png               
+│   ├── github_profile.png
+│   ├── linkedin_profile.png
+│   └── researchgate_profile.png
+│
 ├── task-3-platforms/
-│   ├── hackerrank_proof.png                   
-│   ├── google_form_editor.png                 
-│   └── google_sheets_responses.png            
+│   ├── hackerrank_proof.png
+│   ├── google_form_editor.png
+│   └── google_sheets_responses.png
+│
 ├── task-4-email-etiquette/
-│   ├── professional_email_drafts.pdf          
-│   └── social_media_checklist.pdf             
+│   ├── professional_email_drafts.pdf
+│   └── social_media_checklist.pdf
+│
 ├── task-5-cybercrime/
-│   └── cybercrime_case_study_prevention.pdf   
-└── README.md                                  
-
+│   └── cybercrime_case_study_prevention.pdf
+│
+└── README.md
 
 🎯 Key Deliverables
+📊 Task 1 – Digital Literacy Infographic
 
-Task 1: Digital Literacy Infographic – A Canva-designed visual exploring AI's impact on modern education and essential digital skills.
+A visually engaging infographic designed using Canva, highlighting:
 
-Task 2: Professional Portfolio – Established industry-standard profiles on LinkedIn, GitHub, and ResearchGate to build a professional digital footprint.
+The impact of AI in modern education
+Essential digital skills for students
+The future of digital learning
+💼 Task 2 – Professional Portfolio
 
-Task 3: Platforms & Coding
+Created and optimized professional profiles to build a strong digital identity:
 
-HackerRank: 2-Star Python Badge and Problem Solving (Basic) Certification.
+GitHub Profile
+LinkedIn Profile
+ResearchGate Profile
 
-Digital Literacy Quiz: https://forms.gle/hRi6LGAtTrsH9cPQ8
+This task helped me understand the importance of maintaining a professional online presence.
 
-Task 4: Digital Etiquette – Professional email drafts to HOD/Faculty and a 7-point Social Media Integrity Checklist.
+💻 Task 3 – Platforms & Coding
+Achieved 2-Star Python Badge on HackerRank
+Completed Problem Solving (Basic) Certification
+Created and managed a Digital Literacy Quiz using Google Forms
 
-Task 5: Cybercrime Awareness – A case study on Phishing attacks targeting students and a 6-point prevention guide (National Helpline: 1930).
+🔗 Quiz Link: https://forms.gle/hRi6LGAtTrsH9cPQ8
 
+✉️ Task 4 – Digital Etiquette
+Created professional email drafts for academic communication (HOD/Faculty)
+Designed a 7-Point Social Media Integrity Checklist
+Learned proper online communication standards
+🔐 Task 5 – Cybercrime Awareness
+
+Prepared a case study on Phishing Attacks Targeting Students, including:
+
+Real-world examples
+Warning signs of phishing emails
+A 6-Point Prevention Guide
+Awareness of the National Cyber Helpline (1930)
 🎓 Learning Outcomes
 
-Through this project, I have developed a foundational "digital footprint" that aligns with the standards of a modern Aerospace Engineer. I have learned to:
+Through this project, I successfully developed a strong digital foundation aligned with modern engineering standards.
 
-Use GitHub for professional version control and documentation.
+I learned how to:
+Use GitHub for professional documentation and version control
+Communicate formally using professional email etiquette
+Use Google Workspace tools for collaboration and digital learning
+Understand and prevent cybersecurity threats
+Build a professional digital footprint as an Aerospace Engineering student
+📌 About This Project
 
-Communicate with academic leadership via Professional Email Etiquette.
-
-Utilize Cloud Collaboration (Google Workspace) for peer education.
-
-Identify and mitigate Cyber Risks in a technical environment.
+This repository reflects my growth as a Student Digital Ambassador and my commitment to becoming a technically skilled and digitally responsible engineer.
