@@ -45,7 +45,7 @@ Task 3: Platforms & Coding
 
 HackerRank: 2-Star Python Badge and Problem Solving (Basic) Certification.
 
-Digital Literacy Quiz: Click Here to View My Google Form
+Digital Literacy Quiz: https://forms.gle/hRi6LGAtTrsH9cPQ8
 
 Task 4: Digital Etiquette – Professional email drafts to HOD/Faculty and a 7-point Social Media Integrity Checklist.
 
