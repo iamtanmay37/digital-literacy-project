@@ -22,7 +22,7 @@ As a **Student Digital Ambassador**, this project showcases my progress in build
 ```
 digital-literacy-project/
 ├── report/
-│   └── Project_Report_Tanmay_Tiwari.pdf       
+│   └── Project_Report.pdf       
 ├── task-1-presentation/
 │   └── digital_literacy_infographic.png       
 ├── task-2-portfolio/
