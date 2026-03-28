@@ -21,15 +21,25 @@ As a **Student Digital Ambassador**, this project showcases my progress in build
 
 ```
 digital-literacy-project/
-│
 ├── report/
+│   └── Project_Report_Tanmay_Tiwari.pdf       
 ├── task-1-presentation/
+│   └── digital_literacy_infographic.png       
 ├── task-2-portfolio/
+│   ├── github_profile.png                     
+│   ├── linkedin_profile.png                   
+│   └── researchgate_profile.png               
 ├── task-3-platforms/
+│   ├── hackerrank_proof.png                   
+│   ├── google_form_editor.png                 
+│   └── google_sheets_responses.png            
 ├── task-4-email-etiquette/
+│   ├── professional_email_drafts.pdf          
+│   └── social_media_checklist.pdf             
 ├── task-5-cybercrime/
-│
-└── README.md
+│   └── cybercrime_case_study_prevention.pdf   
+└── README.md                                  
+
 ```
 
 ---
