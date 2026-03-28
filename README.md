@@ -1,8 +1,11 @@
 🚀 Digital Literacy & Student Ambassador Project
 
 **Tanmay Tiwari**
+
 B.Tech Aerospace Engineering (2025–2029)
+
 VIT Bhopal University
+
 Registration No: 25BAS10093
 
 ---
